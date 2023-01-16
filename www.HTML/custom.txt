@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>custom</title>
+</head>
+<body>
+
+<h1>Pakistan Customs H-1</h1>
+<h2>Pakistan Customs H-2</h2>
+<h3>Pakistan Customs H-3</h3>
+<h4>Pakistan Customs H-4</h4>
+<h5>Pakistan Customs H-5</h5>
+<h6>Pakistan Customs H-6</h6>
+<h2>PAKISTAN CUSTOMS</H2>
+<P>Pakistan Customs is one of the elite cadres of the Civil Services of Pakistan. It is serving as the guardian of Pakistan's borders against movement of contraband goods and encourage bona-fide trade. It provided a major source of revenue to the Government of Pakistan in the form of taxes levied.
+
+<img src="giphy.gif" height="200" width="200"/>
+<img src="download.jpg" height="250" width="450"/>
+
+</body>
+</htlm>
